@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\Hw_ruslan\\Hw_ruslan.csproj": {}
+    "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\07.12.2020 Hw\\07.12.2020 Hw\\07.12.2020 Hw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\Hw_ruslan\\Hw_ruslan.csproj": {
+    "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\07.12.2020 Hw\\07.12.2020 Hw\\07.12.2020 Hw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\Hw_ruslan\\Hw_ruslan.csproj",
-        "projectName": "Hw_ruslan",
-        "projectPath": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\Hw_ruslan\\Hw_ruslan.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\07.12.2020 Hw\\07.12.2020 Hw\\07.12.2020 Hw.csproj",
+        "projectName": "07.12.2020 Hw",
+        "projectPath": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\07.12.2020 Hw\\07.12.2020 Hw\\07.12.2020 Hw.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\Hw_ruslan\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\hw_ruslan\\Hw_ruslan\\07.12.2020 Hw\\07.12.2020 Hw\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

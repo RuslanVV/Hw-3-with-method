@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "Hw_ruslan/1.0.0": {
+      "07.12.2020 Hw/1.0.0": {
         "runtime": {
-          "Hw_ruslan.dll": {}
+          "07.12.2020 Hw.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Hw_ruslan/1.0.0": {
+    "07.12.2020 Hw/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
